@@ -1,4 +1,4 @@
-in <-
+add <-
 function(E){
   rfiles<-list.files(pattern=".R$")
   E$R_files<-list2env(setNames(lapply(rfiles,readLines),gsub("[.]R","",basename(rfiles))))
