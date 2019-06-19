@@ -1,4 +1,4 @@
-Package: pack
+Package: env
 Title: packing environment work flow for more consistent ad-hoc analysis
 Version: 0.0.0.9000
 Authors@R: person("Jon", "Arsenault", email = "jars3n@gmail.com", role = c("aut", "cre"))
